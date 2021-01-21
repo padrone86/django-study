@@ -9,7 +9,6 @@ django = "*"
 [dev-packages]
 autopep8 = "*"
 flake8 = "*"
-pylint = "*"
 rope = "*"
 
 [requires]
